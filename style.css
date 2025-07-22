@@ -1,6 +1,24 @@
 body {
-  background-color: salmon;
-  color: white;
+  background-color: yellow;
+  color: black;
   padding: 0%;
   margin: 0%;
+  font-family: monospace;
+}
+
+h2 {
+  color: blue;
+  text-transform: uppercase;
+}
+.cv-header {
+  padding: 100px;
+  background-color: beige;
+  width: 100rem;
+  height: 100rem;
+}
+.cv-header:hover {
+  background-color: aqua;
+}
+.header p {
+  color: brown;
 }
