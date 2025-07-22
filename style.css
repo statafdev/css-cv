@@ -1,6 +1,32 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
 body {
-  background-color: salmon;
-  color: white;
-  padding: 0%;
-  margin: 0%;
+  background-color: yellow;
+  color: black;
+  font-family: monospace;
+  padding: 0;
+}
+
+h2 {
+  color: blue;
+  text-transform: uppercase;
+}
+
+.cv-header {
+  background-color: beige;
+  width: 100vw;
+}
+
+.cv-header:hover {
+  background-color: aqua;
+}
+
+.header p {
+  color: brown;
+}
+
+#header {
+  font-size: xx-large;
 }
